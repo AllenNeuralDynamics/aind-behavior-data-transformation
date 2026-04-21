@@ -1,3 +1,6 @@
+# Archive Notice
+This repo is being archived.
+
 # aind-behavior-data-transformation
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
